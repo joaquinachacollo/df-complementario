@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a img{
+    border-radius: 60%;
+    max-width: 100px;
+}
+.bg-j{
+    background-color: rgb(54, 121, 115);
+    
+    
+}
+
+.collapse{
+    display: flex;
+    justify-content: end;
+}
+

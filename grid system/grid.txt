@@ -1,0 +1,19 @@
+<!-- grid system -->
+    <!-- etiqueta container -->
+   <section class="container">
+      <!-- una fila -->
+      <div class="row">
+        <!-- columna / segun boostrap hay doce columnas invisibles en la pantalla-->
+        <!-- agregar el numero de columnas que queremos que ocupe cada una individualmente -->
+        <!-- breakpoints nos permite individualizar cada columna por cada tipo de pantalla -->
+        <div class="col-sm-12 col-md-6 col-lg-4">
+          <img src="imagenes/garaje.jpg" class="card-img-top" alt="...">
+        </div>
+        <div class="col-sm-12 col-md-3 col-lg-4">
+          <img src="imagenes/garaje.jpg" class="card-img-top" alt="...">
+        </div>
+        <div class="col-sm-12 col-md-3 col-lg-4">
+          <img src="imagenes/garaje.jpg" class="card-img-top" alt="...">
+        </div>
+      </div>
+    </section>
