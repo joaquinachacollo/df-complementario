@@ -8,14 +8,19 @@ a img{
     border-radius: 60%;
     max-width: 100px;
 }
-.bg-j{
-    background-color: rgb(54, 121, 115);
-    
-    
+
+.card-1{
+    background-color: rgb(53, 112, 114) !important;
 }
 
-.collapse{
-    display: flex;
-    justify-content: end;
+h1{
+    margin: 1rem;
 }
 
+.bk{
+    background-color: rgb(53, 112, 114) !important;
+}
+
+.card-dos{
+    background-color: rgb(53, 112, 114) !important;
+}
